@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1400421181 source:e:\cprojects\colorquantization\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<math.h>
+	"PPMimage.h"
+	"HVCData.h"
+	"LinkNode.h"
+	"Color.h"
+
+1400313633 source:e:\cprojects\colorquantization\linklist.cpp
+	"LinkList.h"
+	<iostream>
+
+1400417168 e:\cprojects\colorquantization\linklist.h
+	<iostream>
+	"LinkNode.h"
+
+1400293227 source:e:\cprojects\colorquantization\hvcdata.cpp
+	"HVCData.h"
+
+1400412496 e:\cprojects\colorquantization\hvcdata.h
+	<iostream>
+
+1400316694 e:\cprojects\colorquantization\ppmimage.h
+	<string>
+	"LinkList.h"
+	"HVCData.h"
+	"Color.h"
+
+1400313220 source:e:\cprojects\colorquantization\ppmimage.cpp
+	"PPMimage.h"
+
+1400406033 e:\cprojects\colorquantization\linknode.h
+	<iostream>
+
+1400314644 source:e:\cprojects\colorquantization\linknode.cpp
+	"LinkNode.h"
+
+1400397192 source:e:\cprojects\colorquantization\color.cpp
+	"Color.h"
+
+1400412496 e:\cprojects\colorquantization\color.h
+	"HVCData.h"
+
+1400397192 source:c:\users\wang\desktop\colorquantization\color.cpp
+	"Color.h"
+
+1400412496 c:\users\wang\desktop\colorquantization\color.h
+	"HVCData.h"
+
+1400412496 c:\users\wang\desktop\colorquantization\hvcdata.h
+	<iostream>
+
+1400293227 source:c:\users\wang\desktop\colorquantization\hvcdata.cpp
+	"HVCData.h"
+
+1400313220 source:c:\users\wang\desktop\colorquantization\ppmimage.cpp
+	"PPMimage.h"
+
+1400316694 c:\users\wang\desktop\colorquantization\ppmimage.h
+	<string>
+	"LinkList.h"
+	"HVCData.h"
+	"Color.h"
+
+1400417168 c:\users\wang\desktop\colorquantization\linklist.h
+	<iostream>
+	"LinkNode.h"
+
+1400406033 c:\users\wang\desktop\colorquantization\linknode.h
+	<iostream>
+
+1400586382 source:c:\users\wang\desktop\colorquantization\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<math.h>
+	<Windows.h>
+	"PPMimage.h"
+	"HVCData.h"
+	"LinkNode.h"
+	"Color.h"
+

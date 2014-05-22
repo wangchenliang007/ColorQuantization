@@ -1,0 +1,30 @@
+class PPMimage
+{
+    public:
+        PPMimage();
+        virtual ~PPMimage();
+        string name;
+        int width, height, max_value;           //header
+        string RGBFile;         // the file name of saving rgb information
+        string HSVFile;
+        string MunsellFile;     //HVC
+        LinkList<HVCData>   hvcLink;
+        LinkList<Color> colorSpaceLink;
+        int numOfColorsInSpace;
+    protected:
+    private:
+};
+
+class Color
+{
+    public:
+        Color();
+        ~Color();
+        int number;
+        HVCData hvcValue;
+        int px, py;
+        int sx, sy;
+        float hk;
+        Baricenter bk;
+        float dk;
+};
