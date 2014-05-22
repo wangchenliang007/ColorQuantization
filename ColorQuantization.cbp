@@ -40,6 +40,8 @@
 		<Unit filename="LinkNode.h" />
 		<Unit filename="PPMimage.cpp" />
 		<Unit filename="PPMimage.h" />
+		<Unit filename="j2c_util_ColorBasedSimilarity.cpp" />
+		<Unit filename="j2c_util_ColorBasedSimilarity.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<DoxyBlocks>
